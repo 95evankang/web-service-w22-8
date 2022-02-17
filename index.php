@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title> PHP File!</php>
+        <title> PHP File!</title>
 
     </head>
 
